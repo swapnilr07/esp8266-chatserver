@@ -36,6 +36,11 @@ This project flashes a ready-made firmware (`chatserver.bin`) to your NodeMCU ES
 | Admin Panel URL    | http://192.168.4.1/admin|
 
 ---
+## 🔽 Download Firmware
+
+Click below to download the precompiled firmware for ESP8266:
+
+[⬇️ ChatServer.bin](https://github.com/swapnilr07/esp8266-chatserver/blob/main/ChatServer.bin?raw=true)
 
 ## 🚀 Flashing Instructions
 
